@@ -1,0 +1,575 @@
+Archive member included because of file (symbol)
+
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o (__mulsi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o (__udivmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                              C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o (__divmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o (__udivmodsi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o (exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o (__do_copy_data)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              gohit.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+ChkCollideStk       0x80              gohit.o
+LightTrackingStk    0x80              gohit.o
+OSLockNesting       0x1               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSRunning           0x1               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSIdleCtr           0x4               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSPrioHighRdy       0x1               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSPrioCur           0x1               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSTCBList           0x2               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSTaskStatStk       0x80              C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSCtxSwCtr          0x4               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+myrobot             0x5               gohit.o
+OSIdleCtrMax        0x4               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSTCBFreeList       0x2               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSCPUUsage          0x1               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSTaskCtr           0x1               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+CtrlmotorStk        0x80              gohit.o
+OSTCBHighRdy        0x2               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSRdyGrp            0x1               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSRdyTbl            0x3               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSIntExitY          0x1               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSIntNesting        0x1               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+TaskStartStk        0x80              gohit.o
+OSTCBCur            0x2               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSTaskIdleStk       0x80              C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSTCBTbl            0x10e             C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSStatRdy           0x1               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+OSTCBPrioTbl        0x22              C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+NavigBotStk         0x80              gohit.o
+OSIdleCtrRun        0x4               C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+LOAD gohit.o
+LOAD C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_a.o
+LOAD C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_c.o
+LOAD C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+LOAD C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x134a
+ *(.vectors)
+ .vectors       0x00000000       0x68 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000068                __ctors_start = .
+ *(.ctors)
+                0x00000068                __ctors_end = .
+                0x00000068                __dtors_start = .
+ *(.dtors)
+                0x00000068                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000068        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000068                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000068        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000074       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000074                __do_copy_data
+ .init4         0x0000008a       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x0000008a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000009a        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x000000a2        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x000000a2                __vector_22
+                0x000000a2                __vector_1
+                0x000000a2                __vector_24
+                0x000000a2                __vector_12
+                0x000000a2                __bad_interrupt
+                0x000000a2                __vector_6
+                0x000000a2                __vector_3
+                0x000000a2                __vector_23
+                0x000000a2                __vector_25
+                0x000000a2                __vector_11
+                0x000000a2                __vector_13
+                0x000000a2                __vector_17
+                0x000000a2                __vector_19
+                0x000000a2                __vector_7
+                0x000000a2                __vector_5
+                0x000000a2                __vector_4
+                0x000000a2                __vector_9
+                0x000000a2                __vector_2
+                0x000000a2                __vector_21
+                0x000000a2                __vector_15
+                0x000000a2                __vector_8
+                0x000000a2                __vector_14
+                0x000000a2                __vector_10
+                0x000000a2                __vector_18
+                0x000000a2                __vector_20
+ .text          0x000000a6      0x228 gohit.o
+                0x0000014c                CntrlMotors
+                0x00000170                LightTracking
+                0x000002a0                CheckCollision
+                0x000001f8                NavigRobot
+                0x000000a6                main
+                0x000000e6                TaskStart
+ .text          0x000002ce      0x23e C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_a.o
+                0x000002ce                OSStartHighRdy
+                0x0000032e                OSCtxSw
+                0x000003e8                OSIntCtxSw
+                0x0000044e                OSTickISR
+                0x0000044e                __vector_16
+ .text          0x0000050c       0x62 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_c.o
+                0x0000055c                OSTaskCreateHook
+                0x00000562                OSTaskStatHook
+                0x00000566                OSInitHookBegin
+                0x0000055e                OSTaskDelHook
+                0x00000564                OSTimeTickHook
+                0x0000056c                OSTCBInitHook
+                0x0000050c                OSTaskStkInit
+                0x00000568                OSInitHookEnd
+                0x00000560                OSTaskSwHook
+                0x0000056a                OSTaskIdleHook
+ .text          0x0000056e      0x8cc C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+                0x0000056e                OSIntEnter
+                0x000005e4                OS_TCBInit
+                0x00000b08                OSTaskCreate
+                0x00000a0c                OSTaskDel
+                0x00000cc8                OSIntExit
+                0x000006d8                OS_Sched
+                0x000008d8                OS_TaskStat
+                0x00000766                OSTimeDly
+                0x000007b6                OSTimeDlyHMSM
+                0x00000bb0                OSSchedUnlock
+                0x000009bc                OSStatInit
+                0x000005a8                OS_Dummy
+                0x000005aa                OSTaskDelReq
+                0x00000c6e                OSStart
+                0x00000be4                OSTimeTick
+                0x00000586                OSSchedLock
+                0x00000d72                OSInit
+                0x000005a2                OSVersion
+                0x000006a8                OS_TaskIdle
+ .text          0x00000e3a      0x43c C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o
+                0x000010dc                robo_wait4goPress
+                0x00001008                robo_distSensor
+                0x00000eb2                motor_init
+                0x00000f4c                robo_motorSpeed
+                0x00001140                cprintf
+                0x00000e9a                PWM8_write
+                0x000010e6                OS_ticks_init
+                0x000010fa                HAL_init
+                0x00000fd4                cgetchar
+                0x00000f22                motor_set_speed
+                0x0000107e                robo_bumpSensorL
+                0x00001066                robo_bumpSensorR
+                0x00000e3a                ADC_init
+                0x00000e76                ADC_readmv
+                0x00001106                robo_Setup
+                0x00000e48                ADC_read
+                0x000010d0                robo_goPressed
+                0x00000fc4                cputchar
+                0x00000efe                motor_set_dir
+                0x000010bc                robo_checkBattery
+                0x00000faa                USART0_init
+                0x00001096                robo_Honk
+                0x0000105e                robo_lightSensorL
+                0x00000fee                cputs
+                0x00001056                robo_lightSensorR
+ .text          0x00001276        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00001276        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00001276        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00001276        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00001276        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00001276        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00001276        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00001276                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x00001276       0x3e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x00001276                __mulsi3
+ .text.libgcc   0x000012b4       0x28 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x000012b4                __udivmodhi4
+ .text.libgcc   0x000012dc       0x26 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                0x000012dc                __divmodhi4
+                0x000012dc                _div
+ .text.libgcc   0x00001302       0x44 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x00001302                __udivmodsi4
+ .text.libgcc   0x00001346        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00001346        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00001346        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00001346                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001346        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00001346                exit
+                0x00001346                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001346        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000134a                _etext = .
+
+.data           0x00800100      0x140 load address 0x0000134a
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .data          0x00800100        0x0 gohit.o
+ .data          0x00800100        0x0 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_a.o
+ .data          0x00800100        0x0 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_c.o
+ .data          0x00800100      0x108 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+                0x00800100                OSMapTbl
+                0x00800108                OSUnMapTbl
+ .data          0x00800208       0x37 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o
+ .data          0x0080023f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x0080023f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x0080023f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x0080023f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x0080023f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x0080023f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x0080023f        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800240                . = ALIGN (0x2)
+ *fill*         0x0080023f        0x1 00
+                0x00800240                _edata = .
+                0x00800240                PROVIDE (__data_end, .)
+
+.bss            0x00800240      0x4db
+                0x00800240                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800240        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x00800240        0x0 gohit.o
+ .bss           0x00800240        0x0 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_a.o
+ .bss           0x00800240        0x0 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_c.o
+ .bss           0x00800240        0x0 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+ .bss           0x00800240        0x1 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o
+ .bss           0x00800241        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00800241        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800241        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00800241        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800241        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00800241        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800241        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800241      0x285 gohit.o
+                0x00800241                ChkCollideStk
+                0x008002c1                LightTrackingStk
+                0x00800341                myrobot
+                0x00800346                CtrlmotorStk
+                0x008003c6                TaskStartStk
+                0x00800446                NavigBotStk
+ COMMON         0x008004c6      0x255 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+                0x008004c6                OSLockNesting
+                0x008004c7                OSRunning
+                0x008004c8                OSIdleCtr
+                0x008004cc                OSPrioHighRdy
+                0x008004cd                OSPrioCur
+                0x008004ce                OSTCBList
+                0x008004d0                OSTaskStatStk
+                0x00800550                OSCtxSwCtr
+                0x00800554                OSIdleCtrMax
+                0x00800558                OSTCBFreeList
+                0x0080055a                OSCPUUsage
+                0x0080055b                OSTaskCtr
+                0x0080055c                OSTCBHighRdy
+                0x0080055e                OSRdyGrp
+                0x0080055f                OSRdyTbl
+                0x00800562                OSIntExitY
+                0x00800563                OSIntNesting
+                0x00800564                OSTCBCur
+                0x00800566                OSTaskIdleStk
+                0x008005e6                OSTCBTbl
+                0x008006f4                OSStatRdy
+                0x008006f5                OSTCBPrioTbl
+                0x00800717                OSIdleCtrRun
+                0x0080071b                PROVIDE (__bss_end, .)
+                0x0000134a                __data_load_start = LOADADDR (.data)
+                0x0000148a                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080071b        0x0
+                0x0080071b                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080071b                PROVIDE (__noinit_end, .)
+                0x0080071b                _end = .
+                0x0080071b                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000      0x36c
+ *(.stab)
+ .stab          0x00000000      0x36c C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_a.o
+
+.stabstr        0x00000000       0x43
+ *(.stabstr)
+ .stabstr       0x00000000       0x43 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_a.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x80
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 gohit.o
+ .debug_aranges
+                0x00000020       0x20 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_c.o
+ .debug_aranges
+                0x00000040       0x20 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+ .debug_aranges
+                0x00000060       0x20 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o
+
+.debug_pubnames
+                0x00000000      0x604
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0xd2 gohit.o
+ .debug_pubnames
+                0x000000d2       0xcd C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_c.o
+ .debug_pubnames
+                0x0000019f      0x2ad C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+ .debug_pubnames
+                0x0000044c      0x1b8 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o
+
+.debug_info     0x00000000     0x1458
+ *(.debug_info)
+ .debug_info    0x00000000      0x258 gohit.o
+ .debug_info    0x00000258      0x2f0 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_c.o
+ .debug_info    0x00000548      0x8ff C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+ .debug_info    0x00000e47      0x611 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x77a
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xf0 gohit.o
+ .debug_abbrev  0x000000f0      0x149 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_c.o
+ .debug_abbrev  0x00000239      0x295 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+ .debug_abbrev  0x000004ce      0x2ac C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o
+
+.debug_line     0x00000000     0x13a5
+ *(.debug_line)
+ .debug_line    0x00000000      0x280 gohit.o
+ .debug_line    0x00000280      0x238 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_c.o
+ .debug_line    0x000004b8      0x858 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+ .debug_line    0x00000d10      0x695 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o
+
+.debug_frame    0x00000000      0x400
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x70 gohit.o
+ .debug_frame   0x00000070       0xb0 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_c.o
+ .debug_frame   0x00000120      0x140 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+ .debug_frame   0x00000260      0x1a0 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o
+
+.debug_str      0x00000000      0x816
+ *(.debug_str)
+ .debug_str     0x00000000      0x16b gohit.o
+                                0x1a9 (size before relaxing)
+ .debug_str     0x0000016b      0x175 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_c.o
+                                0x1f5 (size before relaxing)
+ .debug_str     0x000002e0      0x2b6 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+                                0x407 (size before relaxing)
+ .debug_str     0x00000596      0x280 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o
+                                0x31a (size before relaxing)
+
+.debug_loc      0x00000000      0xa3d
+ *(.debug_loc)
+ .debug_loc     0x00000000       0xb0 gohit.o
+ .debug_loc     0x000000b0       0x30 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\os_cpu_c.o
+ .debug_loc     0x000000e0      0x59c C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\ucosobj\ucos_ii.o
+ .debug_loc     0x0000067c      0x3c1 C:\Users\Helmi\Documents\Finale\RTSE\RoboTar\RTSE\hal\hal_robo.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(gohit.elf elf32-avr)
+LOAD linker stubs
